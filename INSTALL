@@ -1,0 +1,9 @@
+Building Dhcoin
+
+See doc/readme-qt.rst for instructions on building Dhcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Dhcoin.
+
+See doc/build-*.txt for instructions on building dhcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Dhcoin.
